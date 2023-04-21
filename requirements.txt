@@ -1,0 +1,9 @@
+torch==2.0.0
+pytorch-lightning==1.9.2
+flash-attn==0.2.8
+polars==0.17.0
+pandas==2.0.0
+scikit-learn==1.0.2
+numba==0.56.4
+numpy==1.23.5
+matplotlib==3.7.1
