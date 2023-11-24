@@ -8,6 +8,7 @@ I may add some improvements and new ideas in the future, from other participant 
 
 - [Competition Page](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice/)
 - [Solution Writeup](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice/discussion/402888)
+- [Analysis paper on top 3 solutions (Preprint)](https://arxiv.org/abs/2310.15674)
 
 ## Overview
 
